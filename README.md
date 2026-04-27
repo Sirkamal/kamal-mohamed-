@@ -1,4 +1,4 @@
-# kamal-mohamed-
+# SirKamal
 Decision-Focused ML &amp; Forecasting Analyst (Policy &amp; Development)
 # 👋 Hey, I'm Kamal Mohamed
 
@@ -29,7 +29,7 @@ Building harmonised panel datasets from messy institutional data. Focused on for
 | [**Global Poverty Panel**](https://github.com/kamal-mohamed/Global-Poverty-Panel-Construction-Stability-Analysis) | World Bank PIP data → analysis‑ready panel dataset. | pandas |
 | *[SQL project – coming soon]* | Joining aid disbursement with poverty data for Somalia. | SQLite, pandas |
 
-🔗 **All repositories:** [github.com/kamal-mohamed](https://github.com/kamal-mohamed)
+🔗 **All repositories:** [github.com/kamal-mohamed](https://github.com/sirkamal)
 
 ---
 
