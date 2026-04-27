@@ -1,6 +1,4 @@
-# SirKamal
-Decision-Focused ML &amp; Forecasting Analyst (Policy &amp; Development)
-# 👋 Hey, I'm Kamal Mohamed
+# 👋 Hey, I'm Kamal Mohamed (sirkamal)
 
 **Decision-Focused ML & Forecasting Analyst (Policy & Development)**  
 Building harmonised panel datasets from messy institutional data. Focused on forecasting, causal reasoning, and risk analysis using Python.
@@ -24,12 +22,12 @@ Building harmonised panel datasets from messy institutional data. Focused on for
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**East African Development Indicators**](https://github.com/kamal-mohamed/East-African-Development-Indicators) | Cleaned WDI data for 8 East African countries (2010–2024). Found Somalia data gaps and DRC inflation anomalies. | pandas, matplotlib |
-| [**Somalia Food Price Time Series**](https://github.com/kamal-mohamed/somalia-food-price-time-series-analysis) | WFP market prices → clean time series ready for forecasting. | pandas, statsmodels |
-| [**Global Poverty Panel**](https://github.com/kamal-mohamed/Global-Poverty-Panel-Construction-Stability-Analysis) | World Bank PIP data → analysis‑ready panel dataset. | pandas |
+| [**East African Development Indicators**](https://github.com/sirkamal/East-African-Development-Indicators) | Cleaned WDI data for 8 East African countries (2010–2024). Found Somalia data gaps and DRC inflation anomalies. | pandas, matplotlib |
+| [**Somalia Food Price Time Series**](https://github.com/sirkamal/somalia-food-price-time-series-analysis) | WFP market prices → clean time series ready for forecasting. | pandas, statsmodels |
+| [**Global Poverty Panel**](https://github.com/sirkamal/Global-Poverty-Panel-Construction-Stability-Analysis) | World Bank PIP data → analysis‑ready panel dataset. | pandas |
 | *[SQL project – coming soon]* | Joining aid disbursement with poverty data for Somalia. | SQLite, pandas |
 
-🔗 **All repositories:** [github.com/kamal-mohamed](https://github.com/sirkamal)
+🔗 **All repositories:** [github.com/sirkamal](https://github.com/sirkamal)
 
 ---
 
@@ -43,7 +41,7 @@ Target organisations: Central Bank of Somalia, African Development Bank, World B
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** [linkedin.com/in/kamal-mohamed](https://linkedin.com/in/kamal-mohamed)  
+- **LinkedIn:** [linkedin.com/in/kamal-mohamed](https://linkedin.com/in/kamal-mohamed) (replace with your actual LinkedIn URL)
 - **Email:** kamal@example.com (replace with your real email)
 
 ---
@@ -52,4 +50,4 @@ Target organisations: Central Bank of Somalia, African Development Bank, World B
 
 I am currently completing a **15‑chapter self‑study roadmap** in Decision‑Focused ML & Forecasting with a policy specialisation. Each chapter produces a real report and code – all public here.
 
-> “I don’t just build models. I help decision‑makers act under uncertainty.”
+> *“I don’t just build models. I help decision‑makers act under uncertainty.”*
