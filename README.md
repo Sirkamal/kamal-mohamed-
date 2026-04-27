@@ -41,8 +41,8 @@ Target organisations: Central Bank of Somalia, African Development Bank, World B
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** [linkedin.com/in/kamal-mohamed](https://linkedin.com/in/kamal-mohamed) (replace with your actual LinkedIn URL)
-- **Email:** kamal@example.com (replace with your real email)
+- **LinkedIn:** [linkedin.com/in/kamal-mohamed](https://www.linkedin.com/in/sirkamal/) (replace with your actual LinkedIn URL)
+- **Email:** sirkamaal@gmail.com
 
 ---
 
