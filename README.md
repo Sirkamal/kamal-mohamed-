@@ -1,4 +1,10 @@
 # 👋 Hi, I’m Kamal Mohamed
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/pandas-2.0-red)
+![NumPy](https://img.shields.io/badge/NumPy-1.26-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 **Data & Forecasting Analyst | Policy & Development**
 
