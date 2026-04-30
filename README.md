@@ -74,7 +74,7 @@ Open to:
 - national officer positions  
 - short-term consultancies  
 
-**Target institutions:** Central Bank of Somalia, World Bank, AfDB, UN agencies, NGOs.
+**Target institutions:** Any organization or company that has messy data or looking for making decisions based on strong reliable datasets
 
 ---
 
