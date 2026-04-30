@@ -49,13 +49,16 @@ I produce:
 
 ## 📁 Featured Work
 
+## 📁 Featured Work
+
 | Project | Description | Key Insight |
 |--------|------------|------------|
-| [**Decision Risk Statement – EAC Development Indicators**](https://github.com/Sirkamal/East-African-Development-Indicators/blob/main/reports/Decision_Risk_Statement.md) | Evaluates reliability of World Bank indicators across East Africa. | Suitable for GDP & population analysis; unreliable for Somalia inflation and regional unemployment comparisons. |
-| [**When Data Lies – Simulation Report**](https://github.com/Sirkamal/when-data-lies) | Demonstrates how sampling error and small datasets mislead decisions. | Designed for non-technical policy audiences. |
-| [**SQL Data Extraction (In Progress)**](https://github.com/Sirkamal/sql-somalia-aid) | Joining aid flows with poverty indicators using SQL. | Focus: reproducible data extraction for policy questions. |
+| [**East African Development Indicators**](https://github.com/Sirkamal/East-African-Development-Indicators) | Reliability audit of World Bank indicators across East Africa. | Some indicators (e.g., Somalia inflation) are not reliable for policy use. |
+| [**Life Expectancy Analysis (UN Data)**](https://github.com/Sirkamal/life-expectancy-analysis-United-Nations-2012--2023) | Analysis of life expectancy trends using UN demographic data. | Highlights long-term improvements and regional disparities. |
+| [**Somalia Food Price Time Series Analysis**](https://github.com/Sirkamal/somalia-food-price-time-series-analysis) | Time-series analysis of WFP food price data. | Identifies trends, volatility, and early signals for forecasting. |
 
-🔗 **All repositories:** https://github.com/Sirkamal?tab=repositories
+🔗 **View all projects:** https://github.com/Sirkamal?tab=repositories
+
 
 ---
 
