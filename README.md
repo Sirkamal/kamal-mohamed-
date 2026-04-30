@@ -74,3 +74,10 @@ I am building expertise in:
 ---
 
 > *I focus on making data usable for real decisions — not just technically correct.*
+>
+> ## 📈 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sirkamal&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sirkamal&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
+</picture>
