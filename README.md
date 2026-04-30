@@ -1,53 +1,83 @@
-# 👋 Hey, I'm Kamal Mohamed (sirkamal)
+# 👋 Hi, I’m Kamal Mohamed (Sirkamal)
 
-**Decision-Focused ML & Forecasting Analyst (Policy & Development)**  
-Building harmonised panel datasets from messy institutional data. Focused on forecasting, causal reasoning, and risk analysis using Python.
+**Decision-Focused Data & Forecasting Analyst (Policy & Development)**  
+📍 Mogadishu, Somalia · 🌍 Open to remote & local roles
 
-📍 Mogadishu, Somalia | 🌍 Open to remote and local roles
-
----
-
-## 🧰 What I Do
-
-- **Data Auditing** – I question where data comes from, who is missing, and what biases could mislead policy.
-- **Forecasting** – Time series (ARIMA, exponential smoothing), backtesting, Black Swan stress tests.
-- **SQL** – Extract, join, aggregate institutional data without Excel.
-- **Decision Analysis** – Cost of false positives vs. false negatives, risk matrices, actionable recommendations.
-- **Dashboarding** – Interactive views for stakeholders (Plotly / Dash).
-- **Policy Communication** – Plain‑English reports and 3‑minute verbal summaries.
+I work with real-world institutional data to build **reliable datasets, transparent forecasts, and decision-ready insights**.  
+My focus is not just analysis — but ensuring that data is **fit for policy use**, especially in environments with incomplete or biased information.
 
 ---
 
-## 📁 Featured Projects
+## 🧠 What I Do
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**East African Development Indicators**](https://github.com/sirkamal/East-African-Development-Indicators) | Cleaned WDI data for 8 East African countries (2010–2024). Found Somalia data gaps and DRC inflation anomalies. | pandas, matplotlib |
-| [**Somalia Food Price Time Series**](https://github.com/sirkamal/somalia-food-price-time-series-analysis) | WFP market prices → clean time series ready for forecasting. | pandas, statsmodels |
-| [**Global Poverty Panel**](https://github.com/sirkamal/Global-Poverty-Panel-Construction-Stability-Analysis) | World Bank PIP data → analysis‑ready panel dataset. | pandas |
-| *[SQL project – coming soon]* | Joining aid disbursement with poverty data for Somalia. | SQLite, pandas |
+### 🔍 Data Auditing & Reliability  
+I assess whether data is safe to use before any analysis.  
+This includes identifying **coverage gaps, sampling bias, and measurement limitations**.
 
-🔗 **All repositories:** [github.com/sirkamal](https://github.com/sirkamal)
+**Example:** In my [Data Reliability Audit](https://github.com/Sirkamal/East-African-Development-Indicators/tree/main/reports), I show that Somalia has **no usable inflation data** and limited unemployment coverage — a critical limitation for regional comparisons.
 
 ---
 
-## 🎯 What I'm Looking For
-
-Analyst roles in **development finance, economic policy, or humanitarian analytics** – local or remote. I am open to short‑term consultancies, national officer positions, or junior analyst roles where rigorous analysis informs better policy.
-
-Target organisations: Central Bank of Somalia, African Development Bank, World Bank, UN agencies, international NGOs.
+### 📊 Data Structuring & Analysis  
+I transform raw, inconsistent datasets into **clean, structured panels ready for analysis and modeling** using Python (Pandas, NumPy).
 
 ---
 
-## 📫 Let’s Connect
-
-- **LinkedIn:** [linkedin.com/in/kamal-mohamed](https://www.linkedin.com/in/sirkamal/) (replace with your actual LinkedIn URL)
-- **Email:** sirkamaal@gmail.com
+### 📈 Forecasting Foundations  
+I build and evaluate time-series models (ARIMA, exponential smoothing) with a focus on:
+- baseline comparisons  
+- backtesting  
+- explaining uncertainty and failure risk  
 
 ---
 
-## 📚 My Learning Journey
+### ⚖️ Decision-Oriented Analysis  
+I translate analysis into **clear policy implications**, including:
+- risk of incorrect decisions  
+- limitations of the data  
+- what can and cannot be concluded  
 
-I am currently completing a **15‑chapter self‑study roadmap** in Decision‑Focused ML & Forecasting with a policy specialisation. Each chapter produces a real report and code – all public here.
+---
 
-> *“I don’t just build models. I help decision‑makers act under uncertainty.”*
+### 📊 Communication & Reporting  
+I produce:
+- concise policy briefs  
+- structured analytical reports  
+- clear visualizations for non-technical audiences  
+
+---
+
+## 📁 Featured Work
+
+| Project | Description | Key Insight |
+|--------|------------|------------|
+| [**Decision Risk Statement – EAC Development Indicators**](https://github.com/Sirkamal/East-African-Development-Indicators/blob/main/reports/Decision_Risk_Statement.md) | Evaluates reliability of World Bank indicators across East Africa. | Suitable for GDP & population analysis; unreliable for Somalia inflation and regional unemployment comparisons. |
+| [**When Data Lies – Simulation Report**](https://github.com/Sirkamal/when-data-lies) | Demonstrates how sampling error and small datasets mislead decisions. | Designed for non-technical policy audiences. |
+| [**SQL Data Extraction (In Progress)**](https://github.com/Sirkamal/sql-somalia-aid) | Joining aid flows with poverty indicators using SQL. | Focus: reproducible data extraction for policy questions. |
+
+🔗 **All repositories:** https://github.com/Sirkamal?tab=repositories
+
+---
+
+## 🎯 Focus & Opportunities
+
+I am seeking roles in:
+- Economic policy analysis  
+- Development finance  
+- Humanitarian data analytics  
+
+Open to:
+- junior analyst roles  
+- national officer positions  
+- short-term consultancies  
+
+**Target institutions:** Central Bank of Somalia, World Bank, AfDB, UN agencies, NGOs.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/sirkamal  
+- Email: sirkamal@gmail.com  
+
+> *I focus on making data usable for real decisions — not just technically correct.*
