@@ -23,7 +23,7 @@ My focus is ensuring that data is **fit for use in policy decisions**, especiall
 - **Data Reliability & Bias Assessment**  
   Identify sampling bias, missing populations, and data limitations before analysis
 
-- **Time Series Analysis (Foundations)**  
+- **Time Series Analysis**  
   Analyze trends, seasonality, and volatility in economic data
 
 - **Policy-Oriented Analysis**  
