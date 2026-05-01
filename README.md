@@ -14,6 +14,25 @@ I work with real-world economic and development data to produce **reliable analy
 My focus is ensuring that data is **fit for use in policy decisions**, especially in environments with incomplete or biased data.
 
 ---
+## Professional Credentials
+
+**Economic Analyst — National Economic Council (NEC)**
+Office of the President, Federal Republic of Somalia
+
+**Centennial Vision 2060 (CV2060)**
+Technical contributor to Somalia's 35-year national development blueprint.
+Acknowledged by name in the official publication.
+Supported by World Bank, UNECA, and UN Country Team.
+Published June 2025.
+🔗 https://nec.gov.so/wp-content/uploads/2025/06/SOMALIA-Centennial-Vision-2060-FA.pdf
+
+**State of the Economy Report 2025 — Volume III**
+Lead data analyst for Chapter 4: Aid Effectiveness, Architecture,
+and the Impact of Aid Reduction. Collected, analyzed, and wrote
+conclusions on US aid flows, humanitarian funding gaps, and
+economic transmission channels.
+Published December 2025.
+🔗 https://nec.gov.so/wp-content/uploads/2025/12/NEC-STATE-OF-THE-ECONOMY-REPORT-.pdf
 
 ## 🧠 What I Do
 
