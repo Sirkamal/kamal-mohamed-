@@ -35,9 +35,9 @@ My focus is ensuring that data is **fit for use in policy decisions**, especiall
 
 ### 📊 Somalia Food Price Time Series Analysis
 🔗 https://github.com/Sirkamal/somalia-food-price-time-series-analysis  
-- Analyzed WFP food price data across markets  
-- Identified price trends and volatility  
-- Prepared dataset for future forecasting  
+- Maize and sorghum prices move together – strong positive correlation. That tells me they're driven by the same things: rainfall, harvest cycles, and trade disruptions.
+- Cleaned a large, messy WFP dataset (1995–2021) covering multiple Somali regions. Built a time‐indexed dataset ready for forecasting.
+- Next step: use this cleaned data for inflation proxy estimation and market shock detection – because Somalia has no official CPI.
 
 ---
 
@@ -80,5 +80,3 @@ I am building expertise in:
 ---
 
 > *I focus on making data usable for real decisions — not just technically correct.*
->
-![Repobeats analytics](https://repobeats.axiom.co/api/embed/your-unique-id.svg)
