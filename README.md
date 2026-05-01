@@ -55,8 +55,8 @@ My focus is ensuring that data is **fit for use in policy decisions**, especiall
 - Explored long-term trends across countries  
 - Highlighted regional disparities
 
-### FAOSTAT SDG Indicators – Data Audit for East Africa 
-Link: github.com/Sirkamal/faostat-sdg-audit
+### 📈 FAOSTAT SDG Indicators – Data Audit for East Africa 
+🔗 Link: https:// github.com/Sirkamal/faostat-sdg-audit
 - Analyzed agriculture's share of GDP and tracked income & productivity of food producers across East African countries.
 - Assessed water stress levels and forest area coverage using FAOSTAT SDG data (2016–2024).
 - Produced a Data Reliability Audit and Decision Risk Statement identifying which indicators are safe for policy use, which require caution, and which should not be used ,including Somalia's water stress data which showed signs of imputation
