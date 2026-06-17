@@ -6,7 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-**Data & Forecasting Analyst | Policy & Development**
+**Decision Intelligence & Forecasting Specialist**
 
 📍 Mogadishu, Somalia · 🌍 Open to remote & local roles
 
